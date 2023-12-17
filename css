@@ -1,0 +1,40 @@
+#heading{
+    text-align: center;
+    font-size:150px ;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgba(110, 83, 41, 0.862) ;
+}
+#slogan{
+    font-size: 80px;
+    text-align: center;
+    color: rgb(158, 103, 7);
+}
+#newcol{
+    text-align: center;
+    font-size: 50px;
+    color: rgba(78, 56, 10, 0.956);
+}
+
+#offer{
+    text-align: center;
+    font-size: 40px;
+    color:rgba(68, 51, 16, 0.956);
+
+}
+#popular{
+    font-size: 60px;
+    color:rgb(71, 27, 7);
+    
+}
+#women{
+    font-size: 40px;
+    color: rgba(111, 5, 5, 0.766);
+    text-decoration: underline 1px;
+    
+}
+#men{
+    font-size: 40px;
+    color: rgba(111, 5, 5, 0.766);
+    text-decoration: underline 1px;
+    
+}
